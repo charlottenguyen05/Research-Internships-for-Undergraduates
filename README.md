@@ -24,9 +24,9 @@ I am making this list as an attempt to fill the void of any such open source lis
 ![rifu-community](images/rifu-community.png)
 
 <p align="center">
-  <a href="https://discord.gg/EXR6rWnd"><img src="images/rifu-discord.png" width="293"></a>
+  <a href="https://discord.gg/EXR6rWnd"><img src="images/rifu-discord.png" width="236"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.reddit.com/r/Zapply/"><img src="images/rifu-reddit.png" width="250"></a>
+  <a href="https://www.reddit.com/r/Zapply/"><img src="images/rifu-reddit.png" width="200"></a>
 </p>
 
 <p > 
