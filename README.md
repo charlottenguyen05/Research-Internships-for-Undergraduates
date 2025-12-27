@@ -221,7 +221,9 @@ The following are some worldwide research internship positions:
 
 ## Contributors
 
+![rifu-contributor](images/rifu-contributor.png)
 
+Thanks to all our contributors! **The real MVPs. 🏆**
 
 <a href="https://github.com/zapplyjobs/Research-Internships-for-Undergraduates/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=zapplyjobs/Research-Internships-for-Undergraduates" />
