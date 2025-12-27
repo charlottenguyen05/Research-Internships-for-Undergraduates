@@ -178,13 +178,13 @@ The following are some worldwide research internship positions:
 
 ![rifu-section-middle-global](images/rifu-section-global.png)
 
-#### Multiple Countries
+#### 🌍 Multiple Countries
   * [IPAM UCLA, RIPS Program](http://www.ipam.ucla.edu/programs/student-research-programs/)
   * [Amgen Scholars Program](https://amgenscholars.com/)
   * [UX Research Internship, Red Hat](https://us-redhat.icims.com/jobs/83084/remote-us-nc/job)
   * [Allen Institute for AI, Research and Engineering Internships](https://allenai.org/internships)
 
-#### Global Programs for Indian Students
+#### 🗺️ Global Programs for Indian Students
 * ~~S.N. Bose Scholarship sponsored by IUSSTF~~, it's been closed for almost two years now.
 * [ICTS Summer research program](https://www.icts.res.in/academic/summer-research-program), by ICTS-TIFR.
 * [DAAD Wise Scholarship](https://www.daad.de/go/en/stipa50015295), for research positions in Germany
