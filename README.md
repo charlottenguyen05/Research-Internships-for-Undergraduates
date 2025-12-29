@@ -1,79 +1,12 @@
-![Research Internships for Undergraduates - Illustration of people collaborating.](images/rifu-heading.png)
 
-# <p align="center"> Research Internships for Undergraduates </p>
-
-#### <p align="center"> This is a non-exhaustive list of opportunities available to Undergraduate students. Many of these positions are only focused towards Indian students. </p>
-
-> [!TIP]
-> I am making this list as an attempt to fill the void of any such open source list. Your contribution is vital to keep the list up-to-date for future students to use. Hence it's a humble request to each user to contribute any new opportunity you discover and update the old ones. Without updation, the web-links will break, and the list will become futile! I'll make sure that any such modification in the `README.md` raised as an issue or submitted as a pull request be timely reviewed and added.
-
-<p align="center">
-  This repo is maintained in collaboration with <a href="https://zapply.jobs">
-  <img src="https://zapply.jobs/_astro/logo-white.BELjrjiH_Z18qziS.svg" alt="Zapply logo" height="20" align="center">
-</a>
-</p>
-
-[![Browse New Jobs](https://img.shields.io/badge/Browse_Jobs-Live_Site-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://internships.win/)
-[![Visit the Zapply website](https://img.shields.io/badge/Zapply-Company_Site-4F46E5?style=for-the-badge&logo=zap&logoColor=white)](https://zapply.jobs/)
-[![Join Our Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/EXR6rWnd)
-[![Join Our Reddit](https://img.shields.io/badge/Reddit-Join-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/Zapply/)
-
-## Join Our Community
-
-![Join Our Community - Illustration of people holding hands.](images/rifu-community.png)
-
-<p align="center">
-  <a href="https://discord.gg/EXR6rWnd"><img src="images/rifu-discord.png" alt="Join Our Discord" width="235"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.reddit.com/r/Zapply/"><img src="images/rifu-reddit.png" alt="Join Our Reddit" width="200"></a>
-</p>
-
-<p > 
-  Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join our community of developers and CS students navigating their career journey together!
-</p>
-
-The following are some worldwide research internship positions:
-
-## North America
-
-![Research internships and summer programs across the US and Canada.](images/rifu-section-na.png)
-
-#### <img src="images/flags/us.png" alt="US flag" width="15"> USA
-  * [LPI Summer Intern Program in Planetary Science](https://www.lpi.usra.edu/lpiintern/application/), for both national and international students.
-  * [NASA - CalTech Summer Undergraduate Research Fellowship (SURF)](https://www.jpl.nasa.gov/edu/intern/apply/caltech-summer-undergraduate-research-fellowship/), for research positions at Jet Propulsion Laboratory, California Institute of Technology.
-  * [Santa Fe Institute Summer Research Experience](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)
-  * [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU 
-  * [Data Science for Social Good Fellowship](https://www.dssgfellowship.org/), CMU 
-  * [QRLSSP Summer Program](https://mcmsc.asu.edu/institutes/qrlssp), Arizona State University: Only for US Citizens / Permanent Residents
-  * [Summer Undergraduate Research fellowship program](https://www.rockefeller.edu/education-and-training/surf/), Rockfeller Institute
-  * [CalTech SURF Program](https://sfp.caltech.edu/undergraduate-research/programs/surf/application_information)
-  * [Space Astronomy Summer Program, Space Telescope Science Institute (STScI)](http://www.stsci.edu/opportunities/space-astronomy-summer-program)
-  * ~~[Data Visualization Programming Summer Student Internship in New York City](https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/162-Fifth-Avenue/Data-Visualization-Intern--SCC_R0000579)~~, Flatiron Institute. (NEW LINK NEEDED)
-  * [Summer Research Program, Princeton University](https://undergraduateresearch.princeton.edu/programs/summer-programs?field_princeton_status_eligibili_value=Non-Princeton+undergrads&field_class_year_eligibility_value=Juniors&field_division_value=Engineering)
-  * International Student Research Internship Program - [McKelvey School of Engineering](https://engineering.wustl.edu/academics/undergraduate-research/international-student-research-internship-program.html)
-  * Luddy School of Informatics, Computing, and Engineering - [Global Talent Attraction Program (GTAP)](https://luddy.indiana.edu/research/student-research/fellowship.html)
-  * [BioChemCoRe](https://biochemcore.ucsd.edu/) (Biology and Chemistry Computational Research), Amaro Lab, UC San Diego 
-  * [Global Research Experience in Advanced Technologies (GREAT) Program, UC Davis](https://great.ucdavis.edu/)
-  * [ICT Summer Research Program](https://ict.usc.edu/academics/internships/application/)
-  * [UC Berkeley Amgen Scholars program](https://amgenscholars.berkeley.edu/)
-  * [Summer Undergraduate Program in Engineering Research at Berkeley (SUPERB) (for Information Technology students](https://eecs.berkeley.edu/resources/undergrads/research/superb)
-  * [SUMMER RESEARCH OPPORTUNITIES PROGRAM(SROP), Purdue University](https://www.purdue.edu/gradschool/diversity/programs/summer-research-opportunities-program/)
-  * [Summer Undergraduate Research Fellowship (SURF), Stanford University](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/prospective-graduate-programs/summer)
-  * [IPAM UCLA Program](http://www.ipam.ucla.edu/programs/student-research-programs/)
-
-#### <img src="images/flags/ca.png" alt="Canadian flag" width="15"> Canada
-  * ~~[MITACS Globalink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.~~ (NO LONGER AVAILABLE)
-  * [University of Alberta Research Experience (UARE)](https://www.ualberta.ca/admissions-programs/visiting-student-and-internship-programs/research-internships/ualberta-research-experience/index.html)
 
 ## Europe
 
 ![University-led research programs and fellowships across Europe.](images/rifu-section-europe.png)
 
 #### <img src="images/flags/de.png" alt="German flag" width="15"> Germany
-  * [Max Planck Institute for Gravitational Physics](https://www.aei.mpg.de/student-internships), for all students. 
   * [Max Planck Institute for Software Systems](https://apply.mpi-sws.org/register/internship/)
   * [Warwick Statistics Internship Scheme](https://warwick.ac.uk/fac/sci/statistics/research/internships/), University of Warwick
-  * [DAAD WISE Scholarship](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015295)
   * [HZDR Dresden, Summer student program (Germany)](https://www.hzdr.de/db/Cms?pOid=34387&pNid=2519)
   * [MaxSIP (Max Planck Institute Summer Internship)](https://imprs-ls.opencampus.net/en/maxsip_application_info)
   * [UROP International](http://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/Angebote-fuer-Studierende/UROP/UROP-INternational/~wnr/Informationen-fuer-Studierende/?lidx=1), RWTH Aachen
@@ -100,24 +33,15 @@ The following are some worldwide research internship positions:
 #### <img src="images/flags/fi.png" alt="Finnish flag" width="15"> Finland
   * [AALTO Summer Internship(3 months)](https://www.aalto.fi/en/aalto-science-institute-asci/aalto-science-institute-international-summer-research-programme)
 
-#### <img src="images/flags/at.png" alt="Austrian flag" width="15"> Austria
-  * [ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria
-
 #### <img src="images/flags/tr.png" alt="Turkish flag" width="15"> Turkey
   * [Koç Üniversitesi Research Program](https://vprd.ku.edu.tr/kusrp/)
   * [Sabancı Üniversitesi PURE Summer Research Program](https://pure.sabanciuniv.edu/)
-
-#### <img src="images/flags/ru.png" alt="Russian flag" width="15"> Russia
-  * HSE University, Moscow [Computer Science Internships](https://cs.hse.ru/en/internships/)
 
 ## Asia
 
 ![Research internships and academic programs across Asia.](images/rifu-section-asia.png)
 
 #### <img src="images/flags/jp.png" alt="Japanese flag" width="15"> Japan
-  * [University of Tokyo](http://www.amgenscholars.com/japan-program), Amgen Scholarship Japan (only Bio Tech and Bio-Chem Programs)
-  * [OIST Research Internship Program](https://admissions.oist.jp/oist-research-internship-program-description), Okinawa Institute of Science and Technology 
-  * [NIMS (Japan)](https://www.nims.go.jp/eng/hr-development/internship.html)
   * [Hennge Global Internship Program](https://hennge.com/global/gip.html), for remote internship in a Japan-based tech start-up.
   * [Internet Initiative Japan Internship] (https://www.iijlab.net/en/career/internship.html), for on-site tech internship in Japan.
 
@@ -129,11 +53,11 @@ The following are some worldwide research internship positions:
   * [Yonsei University](https://summer.yonsei.ac.kr/home/program/internship02.asp)
 
 #### <img src="images/flags/tw.png" alt="Taiwanese flag" width="15"> Taiwan
-  * [NTHU Summer Internship Program](http://eng-en.web.nthu.edu.tw/files/14-1130-129169,r1447-1.php)
-  * [TIGP-IIP](https://tigpsip.apps.sinica.edu.tw/index.php), Academia Sincia, Taiwan
-  * [ITRI Global Internship program](https://www.itri.org.tw/english/ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=617731531432246346)
-  * [TEEP@Asia (Taiwan)](https://teep.studyintaiwan.org/programs/Engineering)
-  * [TEEP Internship, Taiwan](https://www.roc-taiwan.org/in_en/post/2749.html)
+  ~~* [NTHU Summer Internship Program](http://eng-en.web.nthu.edu.tw/files/14-1130-129169,r1447-1.php)~~
+  ~~* [TIGP-IIP](https://tigpsip.apps.sinica.edu.tw/index.php), Academia Sincia, Taiwan~~
+  ~~* [ITRI Global Internship program](https://www.itri.org.tw/english/ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=617731531432246346)~~
+  ~~* [TEEP@Asia (Taiwan)](https://teep.studyintaiwan.org/programs/Engineering)~~
+  ~~* [TEEP Internship, Taiwan](https://www.roc-taiwan.org/in_en/post/2749.html)~~
 
 #### <img src="images/flags/hk.png" alt="Hong Kong flag" width="15"> Hong Kong 
   * [HKU, Computer Science Department](https://www.cs.hku.hk/rintern/)
@@ -141,16 +65,11 @@ The following are some worldwide research internship positions:
   * [SURP, CUHK](http://www.summer.cuhk.edu.hk/surp/)
   * [SURP (Hongkong)](http://www.summer.cuhk.edu.hk/surp/?fbclid=IwAR0-H6g4x7UetRxFQkcnK95zvgjkp81TjgCZlBgv-NjrRSxWiOxy84TZuhw)
 
-#### <img src="images/flags/in.png" alt="Indian flag" width="15"> India
-  * [ICTS LONG TERM VISITING STUDENTS PROGRAM](https://www.icts.res.in/academic/long-term-visiting-student-program) for both International and Indian Students. Aims to provide opportunities to students of science, mathematics and engineering to spend a longer period of time (1 or 2 semesters).
-  * [ICTS SN BHATT Memorial Excellence Fellowship](https://www.icts.res.in/academic/summer-research-program) for Undergraduate students of science, mathematics and engineering, who are in their third, fourth or fifth year of the program are eligible to apply. 
-  * [INSA-IASc-NASI SRFP](https://www.ias.ac.in) for undergraduate and postgraduate students in Chemistry, Earth and Planetary sciences, Engineering including computer sciences, Life sciences, mathematics and physics. The fellowship period is 56 days and is quite prestigious for anyone who wishes to go into the field of research.
-
 #### <img src="images/flags/id.png" alt="Indonesian flag" width="15"> Indonesia
-  * [Institut Teknologi Sepuluh Nopember Lab-Based Internship](https://www.its.ac.id/international/experiencing-its/prospective-student/admission/internship/)
+  ~~* [Institut Teknologi Sepuluh Nopember Lab-Based Internship](https://www.its.ac.id/international/experiencing-its/prospective-student/admission/internship/)~~
 
 #### <img src="images/flags/th.png" alt="Thai flag" width="15"> Thailand
-  * [Faculty of Engineering Kasetsart University internship/training/research programs](https://en.eng.ku.ac.th/?page_id=67)
+  ~~* [Faculty of Engineering Kasetsart University internship/training/research programs](https://en.eng.ku.ac.th/?page_id=67)~~ 1-2 sem working
   * [Faculty of Engineering King Mongkut University of North Bangkok Exchange/internship programs](https://www.eng.kmutnb.ac.th/ciep/?page_id=2550)
 
 ## Middle East
@@ -171,7 +90,6 @@ The following are some worldwide research internship positions:
 ![University research internships in Australia.](images/rifu-section-australia.png)
 
 #### <img src="images/flags/au.png" alt="Australian flag" width="15"> Australia
-  * [UNSW Civil and Environmental Engineering Research Internship](https://www.engineering.unsw.edu.au/civil-engineering/study-with-us/international-exchange/research-internship-to-unsw-for-international-students) 
   * [UNSW Research Internship (Australia)](https://www.unsw.edu.au/science/student-life-resources/student-opportunities/research-integrated-learning)
 
 ## Worldwide
@@ -180,7 +98,6 @@ The following are some worldwide research internship positions:
 
 #### 🌍 Multiple Countries
   * [IPAM UCLA, RIPS Program](http://www.ipam.ucla.edu/programs/student-research-programs/)
-  * [Amgen Scholars Program](https://amgenscholars.com/)
   * [UX Research Internship, Red Hat](https://us-redhat.icims.com/jobs/83084/remote-us-nc/job)
   * [Allen Institute for AI, Research and Engineering Internships](https://allenai.org/internships)
 
